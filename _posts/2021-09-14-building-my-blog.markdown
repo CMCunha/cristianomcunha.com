@@ -75,7 +75,7 @@ Of course changing themes is also documented, so I will invest in documenting he
 I wanted my blog to be accessible from the root of my endpoint so I had to remove the baseurl entry from the _config.xml file.
 Go ahead and remove or comment the following line:
 ```yaml
-baseurl: from _config.xml
+baseurl: xxxxxxxx
 ```
 
 ##### Theme
