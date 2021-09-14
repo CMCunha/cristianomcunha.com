@@ -82,7 +82,7 @@ baseurl: xxxxxxxx
 On the same file, _config.xml, I also needed to change the theme name to the theme I choosen, in order to be applied to my site, so I updated the following line also:
 
 ```yaml
-remote_theme: artemsheludko/flexible-jekyll in _config.xml
+remote_theme: artemsheludko/flexible-jekyll
 ```
 
 ##### Dependencies
@@ -138,5 +138,5 @@ See you on my next article ;)
 [github-link]: https://github.com/
 [minima-link]: https://github.com/jekyll/minima
 [flexyble-jekyll-link]: https://github.com/artemsheludko/flexible-jekyll
-[frontmatter-link]: [https://jekyllrb.com/docs/front-matter/]
-[tompreston-link]: [https://tom.preston-werner.com/]
+[frontmatter-link]: https://jekyllrb.com/docs/front-matter/
+[tompreston-link]: https://tom.preston-werner.com/
