@@ -116,13 +116,13 @@ For that create a new project in GitHub and push your code there.
 
 It is that easy because the founder of [Jekyll][Jekyll-link] is in fact the co-founder of [GitHub][github-link] [Tom Preston-Werner][tompreston-link].
 
-Then you need to configure the [GitHub Pages][githubpages-link], that in fact are already a a static website hosting service that enables you to host a static website directly from a public [GitHub][github-link] repository, by default when you activete it it will make your static site available at your your user name plus `.github.io`, so for me it will be `cmcunha.github.io`.
+Then you need to configure the [GitHub Pages][githubpages-link], that in fact are already a static website hosting service that enables you to host a static website directly from a public [GitHub][github-link] repository, by default when you activate it, it will make your static site available at your user name plus `.github.io`, so for me it will be `cmcunha.github.io`.
 
 ![GitHub Pages Configuration](/assets/img/githubpages_conf.png)
 
 
 ### DNS
-Of course my blog could be available trough the default [GitHub pages][githubpages-link] link associated with it but I wanted to go a little further and actually access my blog through: `cristianomcunha.com`, so I bought that domain on GoDaddy platform and redirect it to the [GitHub pages][githubpages-link] of my blog.
+Of course my blog could be available trough the default [GitHub pages][githubpages-link] link associated with it but I wanted to go a little further and actually access my blog through: `cristianomcunha.com`, so I bought that domain on [GoDaddy][godaddy-link] (from Portugal for me) platform and redirect it to the [GitHub pages][githubpages-link] of my blog.
 
 All done!
 
@@ -140,3 +140,4 @@ See you on my next article ;)
 [flexyble-jekyll-link]: https://github.com/artemsheludko/flexible-jekyll
 [frontmatter-link]: https://jekyllrb.com/docs/front-matter/
 [tompreston-link]: https://tom.preston-werner.com/
+[godaddy-link]: https://pt.godaddy.com/
