@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building my blog"
-date:   2021-08-17 16:00:00 +0100
+date:   2021-09-14 16:00:00 +0100
 img: lauren-mancke-aOC7TSLb1o8-unsplash.jpg
 categories: blog
 published: true
