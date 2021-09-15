@@ -4,6 +4,7 @@ title:  "Building my blog"
 date:   2021-09-14 16:00:00 +0100
 img: lauren-mancke-aOC7TSLb1o8-unsplash.jpg
 categories: blog
+comments: true
 published: true
 ---
 I though that there will not be a better first entry for my blog than to share the process I went through to decide to have a blog and to actually build it!
