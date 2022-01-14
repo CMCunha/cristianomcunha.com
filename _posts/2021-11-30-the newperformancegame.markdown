@@ -23,6 +23,8 @@ We need to break these performance efforts into smaller validations, the teams n
 
 When I was part of a test consultancy company the main clients we had in the beginning were clients with applications in production that were not performant enough to support the load they were having and so they wanted professionals that came in and assess the application status and suggest enhancements, of course after having the problematic application in production, this will only add extra burden on the team that needed to solve complex issues very fast...we know what that means.
 
+The game have changed....
+
 ## DevOps and Observability
 DevOps and Observability will bring the performance concerns to the day to day of the teams, in this new reality the teams are concerned on how the application will behave in production and have data to check the impact of the changes they are delivering. With these new concerns the teams need ways to assure the performance of their application in each release of each application or service without impacting the overall times of delivery.
 
