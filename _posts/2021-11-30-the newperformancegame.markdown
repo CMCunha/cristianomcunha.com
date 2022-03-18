@@ -233,6 +233,8 @@ Are you ready (and excited) to play this new performance game?
 
 Have a great 2022! See you in my next article ;)
 
+Check the podcast regarding this article in the [Test Guild Performance](https://testguild.com/podcast/performance/p87-cristiano/) or the [video](https://youtu.be/WQTXVuR_kjI).
+
 
 
 [GitHub stars]: https://star-history.com/#grafana/k6&gatling/gatling&locustio/locust&apache/jmeter&artilleryio/artillery&blazemeter/taurus&Date 
